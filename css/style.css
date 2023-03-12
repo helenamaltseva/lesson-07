@@ -166,4 +166,6 @@ button {
   margin: 4px 2px;
 }
 
-button {border-radius: 40px;}
+button { 
+  border-radius: 40px;
+}
